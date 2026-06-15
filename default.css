@@ -43,7 +43,7 @@
 	
 	a
 	{
-		color: #CC3399;
+		color: #3366CC;
 	}
 	
 	a:hover
@@ -309,7 +309,7 @@
 	#header-wrapper
 	{
 		overflow: hidden;
-		background: #C73399 url(images/overlay.png) repeat;
+		background: #3366CC url(images/overlay.png) repeat;
 	}
 
 	#header
@@ -392,7 +392,7 @@
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
 		background: #FFF;
-		color: #CC3399;
+		color: #3366CC;
 	}
 	
 	#menu .current_page_item a
