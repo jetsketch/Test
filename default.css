@@ -59,6 +59,17 @@
 		margin-bottom: 1.5em;
 	}
 	
+	.split-container
+	{
+		margin: 0px auto;
+		width: flex;
+		margin-bottom: 1.5em;
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+	}
+
+	
 
 /*********************************************************************************/
 /* Form Style                                                                    */
